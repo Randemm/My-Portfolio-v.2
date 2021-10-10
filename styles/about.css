@@ -1,0 +1,25 @@
+.main-content {
+  border: solid 1px white;
+  padding: 2.5em;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+}
+h1 {
+  margin: 0pc 0px 1em 0px;
+}
+p {
+  color: white;
+  font-family: "ARSBLACK", sans-serif;
+  max-width: 65%;
+}
+.image-container {
+  width: 50%;
+  height: 0%;
+}
+.text-content {
+  width: 100%;
+}
+img {
+  width: 100%;
+}
